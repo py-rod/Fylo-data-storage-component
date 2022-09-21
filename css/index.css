@@ -258,7 +258,7 @@ main{
 
 
     .card__container__items > div{
-        padding:0px;
-        background-color: var(--Dark-Blue);
+        padding:5px;
+       
     }
 }

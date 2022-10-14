@@ -43,6 +43,7 @@ main{
     align-items: center;
     max-width: 1600px;
     justify-content: center;
+    margin: 0 auto;
 }
 
 .card__target1{
